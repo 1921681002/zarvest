@@ -11,6 +11,6 @@
 * pip install requests
 * pip2 install bs4
 * pip install bs4
-* git clone https://github.com/kinarworo/zarvest
+* git clone https://github.com/1921681002/zarvest
 * cd zarvest
 * python2 run.py
